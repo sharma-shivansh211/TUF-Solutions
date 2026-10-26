@@ -5,5 +5,6 @@ class Solution {
             s.set(i,s.get(j));
             s.set(j,a);
         }
+        //Collections.reverse(s);
     }
 }
