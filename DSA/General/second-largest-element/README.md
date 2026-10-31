@@ -1,4 +1,4 @@
-# [695. Second Largest Element](https://takeuforward.org/practice/dsa/second-largest-element)
+# [695. Second Largest Element](https://takeuforward.org/practice/dsa/second-largest-element?discussion_id=5637)
 
 ![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
 
