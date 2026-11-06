@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **52** | 0 | 52 | 0 | `2026-11-03` |
+| **53** | 0 | 53 | 0 | `2026-11-06` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (52)
+### DSA (53)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -57,17 +57,18 @@
 | 0039 | [997. Pattern 7](./DSA/General/pattern-7) | [JAVA](./DSA/General/pattern-7/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
 | 0040 | [1006. Pattern 8](./DSA/General/pattern-8) | [JAVA](./DSA/General/pattern-8/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
 | 0041 | [1008. Pattern 9](./DSA/General/pattern-9) | [JAVA](./DSA/General/pattern-9/solution.java) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0042 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [JAVA](./DSA/General/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-22` |
-| 0043 | [101. Reverse a number](./DSA/General/reverse-a-number) | [JAVA](./DSA/General/reverse-a-number/solution.java) | 🟡 Medium | `General` | `2026-10-21` |
-| 0044 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [JAVA](./DSA/Strings/reverse-a-string-i/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-03` |
-| 0045 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [JAVA](./DSA/Strings/reverse-a-string-ii/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-26` |
-| 0046 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-22` |
-| 0047 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [JAVA](./DSA/Arrays/reverse-an-array-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-03` |
-| 0048 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-31` |
-| 0049 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-22` |
-| 0050 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-11-03` |
-| 0051 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-11-03` |
-| 0052 | [52. Valid Anagram
+| 0042 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [JAVA](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-06` |
+| 0043 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [JAVA](./DSA/General/return-the-largest-digit-in-a-number/solution.java) | ⚪ Unspecified | `General` | `2026-10-22` |
+| 0044 | [101. Reverse a number](./DSA/General/reverse-a-number) | [JAVA](./DSA/General/reverse-a-number/solution.java) | 🟡 Medium | `General` | `2026-10-21` |
+| 0045 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [JAVA](./DSA/Strings/reverse-a-string-i/solution.java) | ⚪ Unspecified | `Strings` | `2026-11-03` |
+| 0046 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [JAVA](./DSA/Strings/reverse-a-string-ii/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-26` |
+| 0047 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [JAVA](./DSA/Arrays/reverse-an-array/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-22` |
+| 0048 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [JAVA](./DSA/Arrays/reverse-an-array-ii/solution.java) | ⚪ Unspecified | `Arrays` | `2026-11-03` |
+| 0049 | [695. Second Largest Element](./DSA/General/second-largest-element) | [JAVA](./DSA/General/second-largest-element/solution.java) | ⚪ Unspecified | `General` | `2026-10-31` |
+| 0050 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [JAVA](./DSA/Arrays/sum-of-array-elements/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-22` |
+| 0051 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [JAVA](./DSA/General/sum-of-digits-in-a-given-number/solution.java) | ⚪ Unspecified | `General` | `2026-11-03` |
+| 0052 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [JAVA](./DSA/General/sum-of-first-n-numbers/solution.java) | ⚪ Unspecified | `General` | `2026-11-03` |
+| 0053 | [52. Valid Anagram
 POTD](./DSA/Strings/valid-anagram) | [JAVA](./DSA/Strings/valid-anagram/solution.java) | ⚪ Unspecified | `Strings` | `2026-10-27` |
 
 ---
